@@ -1,0 +1,5 @@
+Name: Environment
+Version: wols/master
+Depends: doc (>=2.5.3)
+Description: Environment
+ A Icinga Web 2 environment and theme examples module
